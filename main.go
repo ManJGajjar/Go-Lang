@@ -7,6 +7,8 @@ func main(){
 	PrintVariablesExample()
 	PrintConstantsExample()
 	ArithmeticOperators()
-	RelationalOperators()
+	RelationalOperators()#
+	AssignmentOperators()
 }
+
 
