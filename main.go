@@ -9,4 +9,6 @@ func main(){
 	ArithmeticOperators()
 	RelationalOperators()#
 	AssignmentOperators()
+	BitwiseOperators()
 }
+
