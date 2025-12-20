@@ -10,5 +10,7 @@ func main(){
 	RelationalOperators()#
 	AssignmentOperators()
 	BitwiseOperators()
+	LogicalOperators()
 }
+
 
