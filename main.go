@@ -11,6 +11,8 @@ func main(){
 	AssignmentOperators()
 	BitwiseOperators()
 	LogicalOperators()
+	MiscOperators()
 }
+
 
 
