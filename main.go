@@ -12,7 +12,5 @@ func main(){
 	BitwiseOperators()
 	LogicalOperators()
 	MiscOperators()
+	loops ()
 }
-
-
-
