@@ -13,4 +13,6 @@ func main(){
 	LogicalOperators()
 	MiscOperators()
 	loops ()
+	ConditionalStatements()
 }
+
