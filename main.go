@@ -14,5 +14,7 @@ func main(){
 	MiscOperators()
 	loops ()
 	ConditionalStatements()
+	SwitchCase()
 }
+
 
