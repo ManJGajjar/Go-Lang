@@ -16,7 +16,5 @@ func main(){
 	ConditionalStatements()
 	SwitchCase()
 	deferExample()
+	pointerExample()
 }
-
-
-
