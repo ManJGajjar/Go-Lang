@@ -17,4 +17,6 @@ func main(){
 	SwitchCase()
 	deferExample()
 	pointerExample()
+	StructExample()
 }
+
