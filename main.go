@@ -18,5 +18,7 @@ func main(){
 	deferExample()
 	pointerExample()
 	StructExample()
+	ArrayExample()
 }
+
 
