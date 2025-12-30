@@ -19,6 +19,8 @@ func main(){
 	pointerExample()
 	StructExample()
 	ArrayExample()
+	Slicing()
 }
+
 
 
