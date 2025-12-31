@@ -20,7 +20,9 @@ func main(){
 	StructExample()
 	ArrayExample()
 	Slicing()
+	MapsExample()
 }
+
 
 
 
