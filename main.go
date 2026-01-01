@@ -21,7 +21,9 @@ func main(){
 	ArrayExample()
 	Slicing()
 	MapsExample()
+	StringsExample()
 }
+
 
 
 
