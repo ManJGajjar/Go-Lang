@@ -22,7 +22,9 @@ func main(){
 	Slicing()
 	MapsExample()
 	StringsExample()
+	MapLiterals()
 }
+
 
 
 
