@@ -23,7 +23,9 @@ func main(){
 	MapsExample()
 	StringsExample()
 	MapLiterals()
+	RuneExample()
 }
+
 
 
 
