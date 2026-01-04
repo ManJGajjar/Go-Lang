@@ -24,7 +24,9 @@ func main(){
 	StringsExample()
 	MapLiterals()
 	RuneExample()
+	TypeConversion()
 }
+
 
 
 
