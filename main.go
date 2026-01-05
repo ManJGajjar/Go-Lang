@@ -25,7 +25,9 @@ func main(){
 	MapLiterals()
 	RuneExample()
 	TypeConversion()
+	StructFields()
 }
+
 
 
 
