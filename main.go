@@ -26,7 +26,9 @@ func main(){
 	RuneExample()
 	TypeConversion()
 	StructFields()
+	myfunc()
 }
+
 
 
 
