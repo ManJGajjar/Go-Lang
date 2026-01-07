@@ -27,7 +27,9 @@ func main(){
 	TypeConversion()
 	StructFields()
 	myfunc()
+	GotoExample()
 }
+
 
 
 
