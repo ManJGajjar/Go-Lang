@@ -28,7 +28,9 @@ func main(){
 	StructFields()
 	myfunc()
 	GotoExample()
+	SelectExample()
 }
+
 
 
 
