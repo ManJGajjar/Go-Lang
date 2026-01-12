@@ -29,7 +29,9 @@ func main(){
 	myfunc()
 	GotoExample()
 	SelectExample()
+	ContinueExample()
 }
+
 
 
 
