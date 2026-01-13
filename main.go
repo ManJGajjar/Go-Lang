@@ -30,7 +30,9 @@ func main(){
 	GotoExample()
 	SelectExample()
 	ContinueExample()
+	BreakExample()
 }
+
 
 
 
