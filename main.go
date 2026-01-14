@@ -31,7 +31,9 @@ func main(){
 	SelectExample()
 	ContinueExample()
 	BreakExample()
+	AnonymousExample()
 }
+
 
 
 
