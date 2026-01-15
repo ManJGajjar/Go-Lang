@@ -32,7 +32,9 @@ func main(){
 	ContinueExample()
 	BreakExample()
 	AnonymousExample()
+	pointerExample()
 }
+
 
 
 
