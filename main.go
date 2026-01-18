@@ -34,7 +34,9 @@ func main(){
 	AnonymousExample()
 	pointerExample()
 	P2P()
+	RangeExample()
 }
+
 
 
 
