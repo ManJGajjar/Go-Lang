@@ -35,7 +35,9 @@ func main(){
 	pointerExample()
 	P2P()
 	RangeExample()
+	EHExample()
 }
+
 
 
 
