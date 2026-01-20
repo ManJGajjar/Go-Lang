@@ -36,7 +36,9 @@ func main(){
 	P2P()
 	RangeExample()
 	EHExample()
+	PanicEx()
 }
+
 
 
 
