@@ -37,24 +37,5 @@ func main(){
 	RangeExample()
 	EHExample()
 	PanicEx()
+	RecoverEx()
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
