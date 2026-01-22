@@ -38,4 +38,6 @@ func main(){
 	EHExample()
 	PanicEx()
 	RecoverEx()
+	check()
 }
+
