@@ -39,5 +39,7 @@ func main(){
 	PanicEx()
 	RecoverEx()
 	check()
+	MethodsEx()
 }
+
 
