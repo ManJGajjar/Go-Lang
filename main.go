@@ -40,7 +40,9 @@ func main(){
 	RecoverEx()
 	check()
 	MethodsEx()
+	RecursionEx()
 }
+
 
 
 
