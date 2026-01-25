@@ -41,7 +41,9 @@ func main(){
 	check()
 	MethodsEx()
 	RecursionEx()
+	InterFaceEx()
 }
+
 
 
 
