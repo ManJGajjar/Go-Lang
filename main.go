@@ -42,7 +42,9 @@ func main(){
 	MethodsEx()
 	RecursionEx()
 	InterFaceEx()
+	TypeAssertionEX()
 }
+
 
 
 
