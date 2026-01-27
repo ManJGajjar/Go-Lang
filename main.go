@@ -43,7 +43,9 @@ func main(){
 	RecursionEx()
 	InterFaceEx()
 	TypeAssertionEX()
+	DRPointersEx()
 }
+
 
 
 
