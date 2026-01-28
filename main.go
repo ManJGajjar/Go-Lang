@@ -44,7 +44,9 @@ func main(){
 	InterFaceEx()
 	TypeAssertionEX()
 	DRPointersEx()
+	Regex()
 }
+
 
 
 
