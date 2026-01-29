@@ -45,7 +45,9 @@ func main(){
 	TypeAssertionEX()
 	DRPointersEx()
 	Regex()
+	StrInter()
 }
+
 
 
 
