@@ -47,7 +47,9 @@ func main(){
 	Regex()
 	StrInter()
 	PDStr()
+	VariableScope()
 }
+
 
 
 
