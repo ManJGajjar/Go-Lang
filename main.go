@@ -48,7 +48,9 @@ func main(){
 	StrInter()
 	PDStr()
 	VariableScope()
+	GORoutinesEx()
 }
+
 
 
 
