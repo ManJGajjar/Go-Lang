@@ -49,7 +49,9 @@ func main(){
 	PDStr()
 	VariableScope()
 	GORoutinesEx()
+	InheritEx()
 }
+
 
 
 
