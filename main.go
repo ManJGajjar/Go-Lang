@@ -52,17 +52,3 @@ func main(){
 	InheritEx()
 	WaitGroupsEx()
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
