@@ -50,7 +50,9 @@ func main(){
 	VariableScope()
 	GORoutinesEx()
 	InheritEx()
+	WaitGroupsEx()
 }
+
 
 
 
