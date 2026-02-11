@@ -51,4 +51,6 @@ func main(){
 	GORoutinesEx()
 	InheritEx()
 	WaitGroupsEx()
+	MutexEx()
 }
+
