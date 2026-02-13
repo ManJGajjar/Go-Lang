@@ -52,5 +52,7 @@ func main(){
 	InheritEx()
 	WaitGroupsEx()
 	MutexEx()
+	UBChannelsEx()
 }
+
 
