@@ -53,6 +53,9 @@ func main(){
 	WaitGroupsEx()
 	MutexEx()
 	UBChannelsEx()
+	BChannelsEx()
+	
 }
+
 
 
