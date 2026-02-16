@@ -54,8 +54,9 @@ func main(){
 	MutexEx()
 	UBChannelsEx()
 	BChannelsEx()
-	
+	ChannelSync()
 }
+
 
 
 
