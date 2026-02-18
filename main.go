@@ -56,7 +56,9 @@ func main(){
 	BChannelsEx()
 	ChannelSync()
 	WorkerpoolEx()
+	ClosingChannelEx()
 }
+
 
 
 
