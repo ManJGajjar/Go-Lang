@@ -57,7 +57,9 @@ func main(){
 	ChannelSync()
 	WorkerpoolEx()
 	ClosingChannelEx()
+	RestAPIEx()
 }
+
 
 
 
