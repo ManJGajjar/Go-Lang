@@ -58,7 +58,9 @@ func main(){
 	WorkerpoolEx()
 	ClosingChannelEx()
 	RestAPIEx()
+	GRMutexEx()
 }
+
 
 
 
