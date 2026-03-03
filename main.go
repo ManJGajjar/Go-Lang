@@ -59,7 +59,9 @@ func main(){
 	ClosingChannelEx()
 	RestAPIEx()
 	GRMutexEx()
+	ChannelDirectionEx()
 }
+
 
 
 
