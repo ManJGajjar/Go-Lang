@@ -20,7 +20,7 @@ func processTask(task int) int {
     return task * 2
 }
 
-func main() {
+func ChannelDirectionEx() {
     const numWorkers = 3
     const numTasks = 5
 
@@ -28,13 +28,11 @@ func main() {
     results := make(chan int, numTasks) 
     var wg sync.WaitGroup
 
-    // Start worker goroutines
     for i := 1; i <= numWorkers; i++ {
         wg.Add(1)
         go worker(i, tasks, results, &wg)
     }
 
-    // Send tasks to the worker pool
     for j := 1; j <= numTasks; j++ {
         tasks <- j
     }
@@ -42,8 +40,8 @@ func main() {
     wg.Wait()
     close(results) 
 
-    // Print results
     for result := range results {
         fmt.Println("Result:", result)
     }
+
 }
