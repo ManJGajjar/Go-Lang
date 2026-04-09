@@ -61,6 +61,7 @@ func main(){
 	GRMutexEx()
 	ChannelDirectionEx()
 	ConstraintsEx()
+	GenFuncEx()
 }
 
 
