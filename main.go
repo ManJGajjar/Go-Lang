@@ -62,6 +62,7 @@ func main(){
 	ChannelDirectionEx()
 	ConstraintsEx()
 	GenFuncEx()
+	GenericTypesEx()
 }
 
 
