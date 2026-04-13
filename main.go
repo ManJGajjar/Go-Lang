@@ -64,6 +64,7 @@ func main(){
 	GenFuncEx()
 	GenericTypesEx()
 	GenericSliceMapsEx()
+	GenericChannelsEx()
 }
 
 
