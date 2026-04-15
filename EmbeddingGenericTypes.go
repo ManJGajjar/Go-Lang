@@ -10,7 +10,7 @@ type Box[T any] struct {
 	Container[T]
 }
 
-func main() {
+func EmbeddingGenericTypesEx()() {
 	box := Box[int]{Container[int]{Value: 64}}
 	fmt.Println("box.Value:", box.Value) 
 }
