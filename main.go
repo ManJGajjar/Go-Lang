@@ -67,6 +67,7 @@ func main(){
 	GenericChannelsEx()
 	GenericInterfacesEx()
 	EmbeddingGenericTypesEx()
+	CallByValueEx()
 }
 
 
