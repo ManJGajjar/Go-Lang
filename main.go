@@ -68,6 +68,7 @@ func main(){
 	GenericInterfacesEx()
 	EmbeddingGenericTypesEx()
 	CallByValueEx()
+	CallByReferenceEx()
 }
 
 
