@@ -69,6 +69,7 @@ func main(){
 	EmbeddingGenericTypesEx()
 	CallByValueEx()
 	CallByReferenceEx()
+	FunctionClosureEx()
 }
 
 
