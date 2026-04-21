@@ -70,6 +70,7 @@ func main(){
 	CallByValueEx()
 	CallByReferenceEx()
 	FunctionClosureEx()
+	FunctionMethodEx()
 }
 
 
