@@ -2,7 +2,7 @@ package main
 import "fmt"
 func AnonymousExample() {
    greet := func() {
-      fmt.Println("Hello World")
+      fmt.Println("Hello, Peter Griffin this side.")
    }
    greet() 
 
