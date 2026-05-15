@@ -71,6 +71,7 @@ func main(){
 	CallByReferenceEx()
 	FunctionClosureEx()
 	FunctionMethodEx()
+	EnumsEx()
 }
 
 
