@@ -73,6 +73,7 @@ func main(){
 	FunctionMethodEx()
 	EnumsEx()
 	TimeoutEx()
+	TimersEx()
 }
 
 
