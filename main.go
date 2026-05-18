@@ -74,6 +74,7 @@ func main(){
 	EnumsEx()
 	TimeoutEx()
 	TimersEx()
+	TickersEx()
 }
 
 
