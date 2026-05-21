@@ -77,6 +77,7 @@ func main(){
 	TickersEx()
 	ROCEx()
 	RateLimitingEx()
+	AtomicCountersEx()
 }
 
 
