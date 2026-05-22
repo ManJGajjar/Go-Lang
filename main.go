@@ -78,6 +78,7 @@ func main(){
 	ROCEx()
 	RateLimitingEx()
 	AtomicCountersEx()
+	URLParsingEx()
 }
 
 
