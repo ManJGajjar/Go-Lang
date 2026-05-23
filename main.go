@@ -79,6 +79,7 @@ func main(){
 	RateLimitingEx()
 	AtomicCountersEx()
 	URLParsingEx()
+	SHAExample()
 }
 
 
