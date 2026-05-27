@@ -80,6 +80,7 @@ func main(){
 	AtomicCountersEx()
 	URLParsingEx()
 	SHAExample()
+	B64Ex()
 }
 
 
