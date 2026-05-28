@@ -81,6 +81,7 @@ func main(){
 	URLParsingEx()
 	SHAExample()
 	B64Ex()
+	LFEx()
 }
 
 
