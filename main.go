@@ -82,6 +82,7 @@ func main(){
 	SHAExample()
 	B64Ex()
 	LFEx()
+	SignalsEx()
 }
 
 
