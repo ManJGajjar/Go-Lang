@@ -15,5 +15,5 @@ func(circle Circle) area() float64 {
 
 func FunctionMethodEx(){
    circle := Circle{x:0, y:0, radius:5}
-   fmt.Printf("Circle area: %f", circle.area())
+   fmt.Printf("Area of Circle: %f", circle.area())
 }
